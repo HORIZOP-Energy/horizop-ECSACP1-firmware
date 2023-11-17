@@ -2,6 +2,7 @@
 
 
 <ins> Preliminary Information on our Electric Charging Station AC Prototype: </ins>
+
 Our current AC Electric Charging Station prototype (ECSACP1) features the following specifications:
 AC Input:
 - Phase/Lines: 3-phase + Neutral + PE or 1-phase + PE
