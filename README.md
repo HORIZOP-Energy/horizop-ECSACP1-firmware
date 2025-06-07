@@ -1,5 +1,6 @@
 # ESP-WROVER-KIT V4.1 firmware for HORIZOP Energy's EV Charging Station AC Prototype 1 (ECSACP1)
 
+> **Note:** The source code and/or materials in this repository are the intellectual property of HORIZOP Energy and is displayed here for demonstration purposes only. All rights are reserved.
 
 <ins> Preliminary Information on our Electric Charging Station AC Prototype: </ins>
 
